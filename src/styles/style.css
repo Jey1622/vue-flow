@@ -1,0 +1,11 @@
+.vue-flow__node {
+    border: 2px solid #007acc;
+    background-color: #f0f8ff;
+    border-radius: 6px;
+  }
+  
+  .vue-flow__edge {
+    stroke: #007acc;
+    stroke-width: 2px;
+  }
+  
